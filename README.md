@@ -1,6 +1,6 @@
 - Hi, I’m Abhishek panchal.
 - I’m interested in learnig web designing.
-- I’m currently learning HTML,CSS.
+- I’m currently learning HTML, CSS, SASS, Bootstrap, Java_Script.
 
 <!---
 abhi-2107/abhi-2107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
